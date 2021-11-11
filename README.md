@@ -4,4 +4,12 @@
 
 Hobby project on visualizing datasets
 
+## Spheres in Unity
 
+- Tutorial by Sebastian Lague on creating a solar system.
+  - Repository: [https://github.com/SebLague/Solar-System](https://github.com/SebLague/Solar-System)
+  - Video: [https://www.youtube.com/watch?v=lctXaT9pxA0](https://www.youtube.com/watch?v=lctXaT9pxA0)
+
+## Unity to Javascript?
+
+- https://docs.unity3d.com/Manual/webgl-building.html
